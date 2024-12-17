@@ -18,7 +18,7 @@
 ### How to register users?
 - Upon receiving this /start from the users, their information will be automatically added to a SQLite database.
 - Users `user_id`, `first_name`, `username` will be collected.
-- Fork the repo and modify the code, if you want more features. (_use chatgpt if you're not a developer.LOL!_)
+- Fork the repo and modify the code, if you want more features.
 
 ### Send Broadcast messages
 - Simply send a reply to your broadcast message as /broadcast. Replied message will sent to to all the users in the bot (from the database).
